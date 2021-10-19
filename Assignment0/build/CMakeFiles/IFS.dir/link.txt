@@ -1,0 +1,3 @@
+D:\CodingEnvironment\CMake\bin\cmake.exe -E rm -f CMakeFiles\IFS.dir/objects.a
+D:\CodingEnvironment\TDM-GCC\bin\ar.exe qc CMakeFiles\IFS.dir/objects.a @CMakeFiles\IFS.dir\objects1.rsp
+D:\CodingEnvironment\TDM-GCC\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\IFS.dir/objects.a -Wl,--no-whole-archive -o IFS.exe -Wl,--out-implib,libIFS.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\IFS.dir\linklibs.rsp

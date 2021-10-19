@@ -1,0 +1,37 @@
+[
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment9/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/particle_system.dir/includes_CXX.rsp -g -o CMakeFiles\\particle_system.dir\\src\\glCanvas.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment9\\src\\glCanvas.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment9/src/glCanvas.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment9/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/particle_system.dir/includes_CXX.rsp -g -o CMakeFiles\\particle_system.dir\\src\\main.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment9\\src\\main.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment9/src/main.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment9/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/particle_system.dir/includes_CXX.rsp -g -o CMakeFiles\\particle_system.dir\\src\\matrix.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment9\\src\\matrix.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment9/src/matrix.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment9/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/particle_system.dir/includes_CXX.rsp -g -o CMakeFiles\\particle_system.dir\\src\\parser.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment9\\src\\parser.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment9/src/parser.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment9/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/particle_system.dir/includes_CXX.rsp -g -o CMakeFiles\\particle_system.dir\\src\\particle.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment9\\src\\particle.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment9/src/particle.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment9/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/particle_system.dir/includes_CXX.rsp -g -o CMakeFiles\\particle_system.dir\\src\\perlin_noise.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment9\\src\\perlin_noise.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment9/src/perlin_noise.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment9/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/particle_system.dir/includes_CXX.rsp -g -o CMakeFiles\\particle_system.dir\\src\\system.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment9\\src\\system.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment9/src/system.cpp"
+}
+]

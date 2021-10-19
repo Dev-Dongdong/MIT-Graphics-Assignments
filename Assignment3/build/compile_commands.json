@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment3/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\glCanvas.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment3\\src\\glCanvas.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment3/src/glCanvas.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment3/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\image.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment3\\src\\image.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment3/src/image.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment3/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\light.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment3\\src\\light.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment3/src/light.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment3/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\main.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment3\\src\\main.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment3/src/main.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment3/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\matrix.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment3\\src\\matrix.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment3/src/matrix.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment3/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\scene_parser.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment3\\src\\scene_parser.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment3/src/scene_parser.cpp"
+}
+]

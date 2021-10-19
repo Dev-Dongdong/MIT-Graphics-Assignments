@@ -1,0 +1,27 @@
+[
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment8/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/curve_editor.dir/includes_CXX.rsp -g -o CMakeFiles\\curve_editor.dir\\src\\glCanvas.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment8\\src\\glCanvas.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment8/src/glCanvas.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment8/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/curve_editor.dir/includes_CXX.rsp -g -o CMakeFiles\\curve_editor.dir\\src\\main.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment8\\src\\main.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment8/src/main.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment8/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/curve_editor.dir/includes_CXX.rsp -g -o CMakeFiles\\curve_editor.dir\\src\\matrix.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment8\\src\\matrix.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment8/src/matrix.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment8/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/curve_editor.dir/includes_CXX.rsp -g -o CMakeFiles\\curve_editor.dir\\src\\spline_parser.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment8\\src\\spline_parser.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment8/src/spline_parser.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment8/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/curve_editor.dir/includes_CXX.rsp -g -o CMakeFiles\\curve_editor.dir\\src\\triangle_mesh.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment8\\src\\triangle_mesh.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment8/src/triangle_mesh.cpp"
+}
+]

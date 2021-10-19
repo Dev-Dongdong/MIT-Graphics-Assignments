@@ -1,0 +1,22 @@
+[
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment0/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe   -g -o CMakeFiles\\IFS.dir\\IFS.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment0\\IFS.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment0/IFS.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment0/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe   -g -o CMakeFiles\\IFS.dir\\image.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment0\\image.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment0/image.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment0/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe   -g -o CMakeFiles\\IFS.dir\\main.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment0\\main.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment0/main.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment0/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe   -g -o CMakeFiles\\IFS.dir\\matrix.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment0\\matrix.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment0/matrix.cpp"
+}
+]

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment2/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe   -g -o CMakeFiles\\raytracer.dir\\image.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment2\\image.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment2/image.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment2/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe   -g -o CMakeFiles\\raytracer.dir\\main.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment2\\main.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment2/main.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment2/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe   -g -o CMakeFiles\\raytracer.dir\\matrix.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment2\\matrix.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment2/matrix.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment2/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe   -g -o CMakeFiles\\raytracer.dir\\scene_parser.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment2\\scene_parser.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment2/scene_parser.cpp"
+}
+]

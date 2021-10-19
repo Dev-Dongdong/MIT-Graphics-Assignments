@@ -1,0 +1,52 @@
+[
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment6/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\boundingbox.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment6\\src\\boundingbox.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment6/src/boundingbox.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment6/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\glCanvas.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment6\\src\\glCanvas.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment6/src/glCanvas.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment6/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\image.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment6\\src\\image.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment6/src/image.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment6/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\light.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment6\\src\\light.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment6/src/light.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment6/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\main.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment6\\src\\main.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment6/src/main.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment6/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\matrix.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment6\\src\\matrix.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment6/src/matrix.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment6/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\perlin_noise.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment6\\src\\perlin_noise.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment6/src/perlin_noise.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment6/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\rayTree.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment6\\src\\rayTree.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment6/src/rayTree.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment6/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\raytracing_stats.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment6\\src\\raytracing_stats.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment6/src/raytracing_stats.cpp"
+},
+{
+  "directory": "D:/Coding/MIT Graphics/Assignment6/build",
+  "command": "D:\\CodingEnvironment\\TDM-GCC\\bin\\g++.exe  @CMakeFiles/raytracer.dir/includes_CXX.rsp -g -o CMakeFiles\\raytracer.dir\\src\\scene_parser.cpp.obj -c \"D:\\Coding\\MIT Graphics\\Assignment6\\src\\scene_parser.cpp\"",
+  "file": "D:/Coding/MIT Graphics/Assignment6/src/scene_parser.cpp"
+}
+]
